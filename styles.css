@@ -1,0 +1,46 @@
+.image-height {
+    height: 50%
+    object-fit: contain;
+}
+.height {
+    height: 93vh
+}
+.container {
+    object-fit: contain;
+}
+.cover {
+    object-fit: cover;
+}
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+.large {
+    font-size: 32px;
+}
+
+.medium {
+    font-size: 16px;
+}
+
+.small {
+    font-size: 12px;
+}
+.block-center {
+    display: block;
+    margin: auto;
+}
+.block-left {
+    margin-left: 0;
+    margin-right: auto;
+}
+.block-right {
+    margin-left: auto;
+    margin-right: 0;
+}
+
